@@ -48,6 +48,17 @@
   ],
   "wallpapers": [
     {
+      "id": "3-mrk24hl9",
+      "title": "3",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/3-mrk24hl9/full.png",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/3-mrk24hl9/thumb.png",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-14T02:53:51.192Z"
+    },
+    {
       "id": "aurora-dreams",
       "title": "Aurora Dreams",
       "imageURL": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=2160",
