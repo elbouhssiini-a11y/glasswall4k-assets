@@ -48,17 +48,6 @@
   ],
   "wallpapers": [
     {
-      "id": "2-mrk1uc23",
-      "title": "2",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2-mrk1uc23/full.png",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2-mrk1uc23/thumb.png",
-      "category": "AMOLED",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-14T02:45:56.802Z"
-    },
-    {
       "id": "aurora-dreams",
       "title": "Aurora Dreams",
       "imageURL": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=2160",
