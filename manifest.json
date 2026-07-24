@@ -1,161 +1,27 @@
 {
   "categories": [
     {
-      "id": "nature",
-      "name": "Nature",
-      "icon": "leaf.fill"
+      "id": "ios-wallpapers",
+      "name": "iOS Wallpapers",
+      "icon": "iphone"
     },
     {
-      "id": "amoled",
-      "name": "AMOLED",
-      "icon": "moon.fill"
-    },
-    {
-      "id": "anime",
-      "name": "Anime",
-      "icon": "sparkles"
-    },
-    {
-      "id": "cars",
-      "name": "Cars",
-      "icon": "car.fill"
-    },
-    {
-      "id": "space",
-      "name": "Space",
-      "icon": "moon.stars.fill"
-    },
-    {
-      "id": "gaming",
-      "name": "Gaming",
-      "icon": "gamecontroller.fill"
-    },
-    {
-      "id": "minimal",
-      "name": "Minimal",
-      "icon": "square.fill"
-    },
-    {
-      "id": "abstract",
-      "name": "Abstract",
-      "icon": "paintbrush.fill"
-    },
-    {
-      "id": "animals",
-      "name": "Animals",
-      "icon": "pawprint.fill"
+      "id": "4k-wallpapers",
+      "name": "4K Wallpapers",
+      "icon": "4k.tv"
     }
   ],
   "wallpapers": [
     {
-      "id": "0d70b9860ac1826afde504d29ff0f1d8-mry8qaw7-0",
-      "title": "0d70b9860ac1826afde504d29ff0f1d8",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/0d70b9860ac1826afde504d29ff0f1d8-mry8qaw7-0/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/0d70b9860ac1826afde504d29ff0f1d8-mry8qaw7-0/thumb.jpg",
+      "id": "2fad08167749a16704f44b1403b39cec-mry8r7yk-11",
+      "title": "2fad08167749a16704f44b1403b39cec",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2fad08167749a16704f44b1403b39cec-mry8r7yk-11/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2fad08167749a16704f44b1403b39cec-mry8r7yk-11/thumb.jpg",
       "category": "Nature",
       "resolution": "4K",
       "isPremium": false,
       "featured": false,
-      "createdAt": "2026-07-24T01:07:31.007Z"
-    },
-    {
-      "id": "01b783e76293cc3f28da2d737cf3e373-mry8qeii-1",
-      "title": "01b783e76293cc3f28da2d737cf3e373",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/01b783e76293cc3f28da2d737cf3e373-mry8qeii-1/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/01b783e76293cc3f28da2d737cf3e373-mry8qeii-1/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:07:35.404Z"
-    },
-    {
-      "id": "1dff16be78ed7f50cf5da750030496cd-mry8qhli-2",
-      "title": "1dff16be78ed7f50cf5da750030496cd",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1dff16be78ed7f50cf5da750030496cd-mry8qhli-2/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1dff16be78ed7f50cf5da750030496cd-mry8qhli-2/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:07:38.953Z"
-    },
-    {
-      "id": "1e66e2f75d011f0b8a6c4043bee01578-mry8qkbx-3",
-      "title": "1e66e2f75d011f0b8a6c4043bee01578",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1e66e2f75d011f0b8a6c4043bee01578-mry8qkbx-3/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1e66e2f75d011f0b8a6c4043bee01578-mry8qkbx-3/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:07:42.810Z"
-    },
-    {
-      "id": "1eb0071c6b82dcdc825eabfff9890256-mry8qnc5-4",
-      "title": "1eb0071c6b82dcdc825eabfff9890256",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1eb0071c6b82dcdc825eabfff9890256-mry8qnc5-4/full.webp",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1eb0071c6b82dcdc825eabfff9890256-mry8qnc5-4/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:07:46.824Z"
-    },
-    {
-      "id": "1ef74d5c5d4e8d2720cf13617532227b-mry8qqej-5",
-      "title": "1ef74d5c5d4e8d2720cf13617532227b",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1ef74d5c5d4e8d2720cf13617532227b-mry8qqej-5/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1ef74d5c5d4e8d2720cf13617532227b-mry8qqej-5/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:07:50.334Z"
-    },
-    {
-      "id": "1eff75569e2478eef3e0a127bb881c10-mry8qt3x-6",
-      "title": "1eff75569e2478eef3e0a127bb881c10",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1eff75569e2478eef3e0a127bb881c10-mry8qt3x-6/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1eff75569e2478eef3e0a127bb881c10-mry8qt3x-6/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:07:53.993Z"
-    },
-    {
-      "id": "1fbb7e5e833dcbc131354ba0bd0ca730-mry8qvxq-7",
-      "title": "1fbb7e5e833dcbc131354ba0bd0ca730",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1fbb7e5e833dcbc131354ba0bd0ca730-mry8qvxq-7/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1fbb7e5e833dcbc131354ba0bd0ca730-mry8qvxq-7/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:07:58.035Z"
-    },
-    {
-      "id": "2aa978450bfc8511a8e8259788a3d79a-mry8qz1r-8",
-      "title": "2aa978450bfc8511a8e8259788a3d79a",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2aa978450bfc8511a8e8259788a3d79a-mry8qz1r-8/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2aa978450bfc8511a8e8259788a3d79a-mry8qz1r-8/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:08:01.785Z"
-    },
-    {
-      "id": "2d7a04671a9ed9063c90c1add3c64d61-mry8r1y3-9",
-      "title": "2d7a04671a9ed9063c90c1add3c64d61",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2d7a04671a9ed9063c90c1add3c64d61-mry8r1y3-9/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2d7a04671a9ed9063c90c1add3c64d61-mry8r1y3-9/thumb.jpg",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-24T01:08:05.540Z"
+      "createdAt": "2026-07-24T01:08:13.328Z"
     },
     {
       "id": "2f70b02d476d399aed868377ba36ebe9-mry8r4tk-10",
@@ -169,26 +35,115 @@
       "createdAt": "2026-07-24T01:08:09.586Z"
     },
     {
-      "id": "2fad08167749a16704f44b1403b39cec-mry8r7yk-11",
-      "title": "2fad08167749a16704f44b1403b39cec",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2fad08167749a16704f44b1403b39cec-mry8r7yk-11/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2fad08167749a16704f44b1403b39cec-mry8r7yk-11/thumb.jpg",
+      "id": "2d7a04671a9ed9063c90c1add3c64d61-mry8r1y3-9",
+      "title": "2d7a04671a9ed9063c90c1add3c64d61",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2d7a04671a9ed9063c90c1add3c64d61-mry8r1y3-9/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2d7a04671a9ed9063c90c1add3c64d61-mry8r1y3-9/thumb.jpg",
       "category": "Nature",
       "resolution": "4K",
       "isPremium": false,
       "featured": false,
-      "createdAt": "2026-07-24T01:08:13.328Z"
+      "createdAt": "2026-07-24T01:08:05.540Z"
     },
     {
-      "id": "979shots-so-mrk2wygp-1",
-      "title": "979shots so",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/979shots-so-mrk2wygp-1/full.png",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/979shots-so-mrk2wygp-1/thumb.png",
-      "category": "Anime",
+      "id": "2aa978450bfc8511a8e8259788a3d79a-mry8qz1r-8",
+      "title": "2aa978450bfc8511a8e8259788a3d79a",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2aa978450bfc8511a8e8259788a3d79a-mry8qz1r-8/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/2aa978450bfc8511a8e8259788a3d79a-mry8qz1r-8/thumb.jpg",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-24T01:08:01.785Z"
+    },
+    {
+      "id": "1fbb7e5e833dcbc131354ba0bd0ca730-mry8qvxq-7",
+      "title": "1fbb7e5e833dcbc131354ba0bd0ca730",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1fbb7e5e833dcbc131354ba0bd0ca730-mry8qvxq-7/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1fbb7e5e833dcbc131354ba0bd0ca730-mry8qvxq-7/thumb.jpg",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-24T01:07:58.035Z"
+    },
+    {
+      "id": "1eff75569e2478eef3e0a127bb881c10-mry8qt3x-6",
+      "title": "1eff75569e2478eef3e0a127bb881c10",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1eff75569e2478eef3e0a127bb881c10-mry8qt3x-6/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1eff75569e2478eef3e0a127bb881c10-mry8qt3x-6/thumb.jpg",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-24T01:07:53.993Z"
+    },
+    {
+      "id": "1ef74d5c5d4e8d2720cf13617532227b-mry8qqej-5",
+      "title": "1ef74d5c5d4e8d2720cf13617532227b",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1ef74d5c5d4e8d2720cf13617532227b-mry8qqej-5/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1ef74d5c5d4e8d2720cf13617532227b-mry8qqej-5/thumb.jpg",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-24T01:07:50.334Z"
+    },
+    {
+      "id": "1eb0071c6b82dcdc825eabfff9890256-mry8qnc5-4",
+      "title": "1eb0071c6b82dcdc825eabfff9890256",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1eb0071c6b82dcdc825eabfff9890256-mry8qnc5-4/full.webp",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1eb0071c6b82dcdc825eabfff9890256-mry8qnc5-4/thumb.jpg",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-24T01:07:46.824Z"
+    },
+    {
+      "id": "1e66e2f75d011f0b8a6c4043bee01578-mry8qkbx-3",
+      "title": "1e66e2f75d011f0b8a6c4043bee01578",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1e66e2f75d011f0b8a6c4043bee01578-mry8qkbx-3/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1e66e2f75d011f0b8a6c4043bee01578-mry8qkbx-3/thumb.jpg",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-24T01:07:42.810Z"
+    },
+    {
+      "id": "1dff16be78ed7f50cf5da750030496cd-mry8qhli-2",
+      "title": "1dff16be78ed7f50cf5da750030496cd",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1dff16be78ed7f50cf5da750030496cd-mry8qhli-2/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1dff16be78ed7f50cf5da750030496cd-mry8qhli-2/thumb.jpg",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-24T01:07:38.953Z"
+    },
+    {
+      "id": "01b783e76293cc3f28da2d737cf3e373-mry8qeii-1",
+      "title": "01b783e76293cc3f28da2d737cf3e373",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/01b783e76293cc3f28da2d737cf3e373-mry8qeii-1/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/01b783e76293cc3f28da2d737cf3e373-mry8qeii-1/thumb.jpg",
+      "category": "Nature",
       "resolution": "4K",
       "isPremium": true,
-      "featured": true,
-      "createdAt": "2026-07-14T03:16:05.075Z"
+      "featured": false,
+      "sortOrder": 9999,
+      "createdAt": "2026-07-24T01:07:35.404Z"
+    },
+    {
+      "id": "0d70b9860ac1826afde504d29ff0f1d8-mry8qaw7-0",
+      "title": "0d70b9860ac1826afde504d29ff0f1d8",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/0d70b9860ac1826afde504d29ff0f1d8-mry8qaw7-0/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/0d70b9860ac1826afde504d29ff0f1d8-mry8qaw7-0/thumb.jpg",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-24T01:07:31.007Z"
     },
     {
       "id": "image12-mrk2z1lc-15",
@@ -202,6 +157,17 @@
       "createdAt": "2026-07-14T03:17:37.212Z"
     },
     {
+      "id": "979shots-so-mrk2wygp-1",
+      "title": "979shots so",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/979shots-so-mrk2wygp-1/full.png",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/979shots-so-mrk2wygp-1/thumb.png",
+      "category": "Anime",
+      "resolution": "4K",
+      "isPremium": true,
+      "featured": true,
+      "createdAt": "2026-07-14T03:16:05.075Z"
+    },
+    {
       "id": "24shots-so-mrk2mirh-0",
       "title": "24shots so",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/24shots-so-mrk2mirh-0/full.png",
@@ -211,61 +177,6 @@
       "isPremium": false,
       "featured": false,
       "createdAt": "2026-07-14T03:07:53.986Z"
-    },
-    {
-      "id": "aurora-dreams",
-      "title": "Aurora Dreams",
-      "imageURL": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=2160",
-      "thumbnailURL": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": true,
-      "createdAt": "2026-07-12T00:00:00Z"
-    },
-    {
-      "id": "forest-haze",
-      "title": "Forest Haze",
-      "imageURL": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=2160",
-      "thumbnailURL": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
-      "category": "Nature",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-09T00:00:00Z"
-    },
-    {
-      "id": "oled-dunes",
-      "title": "OLED Dunes",
-      "imageURL": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=2160",
-      "thumbnailURL": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600",
-      "category": "AMOLED",
-      "resolution": "4K",
-      "isPremium": true,
-      "featured": false,
-      "createdAt": "2026-07-06T00:00:00Z"
-    },
-    {
-      "id": "sakura-glow",
-      "title": "Sakura Glow",
-      "imageURL": "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=2160",
-      "thumbnailURL": "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=600",
-      "category": "Anime",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": true,
-      "createdAt": "2026-07-11T00:00:00Z"
-    },
-    {
-      "id": "midnight-run",
-      "title": "Midnight Run",
-      "imageURL": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=2160",
-      "thumbnailURL": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600",
-      "category": "Cars",
-      "resolution": "4K",
-      "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-02T00:00:00Z"
     },
     {
       "id": "orbital-dust",
@@ -279,26 +190,26 @@
       "createdAt": "2026-07-13T00:00:00Z"
     },
     {
-      "id": "pixel-arena",
-      "title": "Pixel Arena",
-      "imageURL": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=2160",
-      "thumbnailURL": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600",
-      "category": "Gaming",
-      "resolution": "4K",
-      "isPremium": true,
-      "featured": false,
-      "createdAt": "2026-07-08T00:00:00Z"
-    },
-    {
-      "id": "soft-grain",
-      "title": "Soft Grain",
-      "imageURL": "https://images.unsplash.com/photo-1557683316-973673baf926?w=2160",
-      "thumbnailURL": "https://images.unsplash.com/photo-1557683316-973673baf926?w=600",
-      "category": "Minimal",
+      "id": "aurora-dreams",
+      "title": "Aurora Dreams",
+      "imageURL": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=2160",
+      "thumbnailURL": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600",
+      "category": "Nature",
       "resolution": "4K",
       "isPremium": false,
-      "featured": false,
-      "createdAt": "2026-07-04T00:00:00Z"
+      "featured": true,
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": "sakura-glow",
+      "title": "Sakura Glow",
+      "imageURL": "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=2160",
+      "thumbnailURL": "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=600",
+      "category": "Anime",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": true,
+      "createdAt": "2026-07-11T00:00:00Z"
     },
     {
       "id": "liquid-form",
@@ -312,6 +223,28 @@
       "createdAt": "2026-07-10T00:00:00Z"
     },
     {
+      "id": "forest-haze",
+      "title": "Forest Haze",
+      "imageURL": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=2160",
+      "thumbnailURL": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
+      "category": "Nature",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": "pixel-arena",
+      "title": "Pixel Arena",
+      "imageURL": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=2160",
+      "thumbnailURL": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600",
+      "category": "Gaming",
+      "resolution": "4K",
+      "isPremium": true,
+      "featured": false,
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
       "id": "golden-mane",
       "title": "Golden Mane",
       "imageURL": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=2160",
@@ -321,6 +254,17 @@
       "isPremium": false,
       "featured": false,
       "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": "oled-dunes",
+      "title": "OLED Dunes",
+      "imageURL": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=2160",
+      "thumbnailURL": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600",
+      "category": "AMOLED",
+      "resolution": "4K",
+      "isPremium": true,
+      "featured": false,
+      "createdAt": "2026-07-06T00:00:00Z"
     },
     {
       "id": "crimson-void",
@@ -334,6 +278,17 @@
       "createdAt": "2026-07-05T00:00:00Z"
     },
     {
+      "id": "soft-grain",
+      "title": "Soft Grain",
+      "imageURL": "https://images.unsplash.com/photo-1557683316-973673baf926?w=2160",
+      "thumbnailURL": "https://images.unsplash.com/photo-1557683316-973673baf926?w=600",
+      "category": "Minimal",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-04T00:00:00Z"
+    },
+    {
       "id": "alpine-light",
       "title": "Alpine Light",
       "imageURL": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=2160",
@@ -343,6 +298,17 @@
       "isPremium": false,
       "featured": false,
       "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": "midnight-run",
+      "title": "Midnight Run",
+      "imageURL": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=2160",
+      "thumbnailURL": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600",
+      "category": "Cars",
+      "resolution": "4K",
+      "isPremium": false,
+      "featured": false,
+      "createdAt": "2026-07-02T00:00:00Z"
     }
   ]
 }
