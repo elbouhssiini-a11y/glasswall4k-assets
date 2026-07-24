@@ -1,0 +1,18 @@
+{
+  "adsEnabled": true,
+  "adsMode": "test",
+  "appOpenAdUnitId": "",
+  "interstitialAdUnitId": "",
+  "interstitialEveryNOpens": 4,
+  "interstitialEveryNDownloads": 3,
+  "appOpenMinBackgroundSeconds": 2,
+  "introEnabled": true,
+  "introShowEveryLaunch": true,
+  "introVersion": 1,
+  "introTitle": "Welcome to Wallora Glass",
+  "introSubtitle": "Browse Live & iOS wallpapers. Save favorites and download in one tap.",
+  "introImageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/intro/thumb.jpg?v=1784932748552",
+  "introVideoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/intro/full.mp4?v=1784932748552",
+  "introButtonTitle": "Get Started",
+  "updatedAt": "2026-07-24T22:58:13.725Z"
+}
