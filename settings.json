@@ -5,7 +5,7 @@
   "interstitialAdUnitId": "",
   "interstitialEveryNOpens": 4,
   "interstitialEveryNDownloads": 3,
-  "appOpenMinBackgroundSeconds": 1,
+  "appOpenMinBackgroundSeconds": 0,
   "introEnabled": true,
   "introShowEveryLaunch": true,
   "introVersion": 1,
@@ -14,5 +14,5 @@
   "introImageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/intro/thumb.jpg?v=1784932748552",
   "introVideoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/intro/full.mp4?v=1784932748552",
   "introButtonTitle": "Get Started",
-  "updatedAt": "2026-07-24T22:58:37.799Z"
+  "updatedAt": "2026-07-24T22:58:39.193Z"
 }
