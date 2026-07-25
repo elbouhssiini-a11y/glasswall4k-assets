@@ -15,17 +15,6 @@
   ],
   "wallpapers": [
     {
-      "id": "115813763a0ae3b03152db9a8e4a1151-mrzijcn7-1",
-      "title": "115813763a0ae3b03152db9a8e4a1151",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/115813763a0ae3b03152db9a8e4a1151-mrzijcn7-1/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/115813763a0ae3b03152db9a8e4a1151-mrzijcn7-1/thumb.jpg",
-      "category": "iOS 27",
-      "resolution": "4K",
-      "featured": false,
-      "sortOrder": 1,
-      "createdAt": "2026-07-24T22:29:48.958Z"
-    },
-    {
       "id": "3ac4a55b370f56a939a7eb52f5a539be-mrzij8xt-0",
       "title": "3ac4a55b370f56a939a7eb52f5a539be",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/3ac4a55b370f56a939a7eb52f5a539be-mrzij8xt-0/full.jpg",
@@ -33,7 +22,7 @@
       "category": "iOS 27",
       "resolution": "4K",
       "featured": false,
-      "sortOrder": 2,
+      "sortOrder": 1,
       "createdAt": "2026-07-24T22:29:44.708Z"
     },
     {
@@ -44,7 +33,7 @@
       "category": "iOS 27",
       "resolution": "4K",
       "featured": false,
-      "sortOrder": 3,
+      "sortOrder": 2,
       "createdAt": "2026-07-24T22:29:52.880Z"
     },
     {
@@ -55,8 +44,19 @@
       "category": "iOS 27",
       "resolution": "4K",
       "featured": false,
-      "sortOrder": 4,
+      "sortOrder": 3,
       "createdAt": "2026-07-24T22:29:56.952Z"
+    },
+    {
+      "id": "115813763a0ae3b03152db9a8e4a1151-mrzijcn7-1",
+      "title": "115813763a0ae3b03152db9a8e4a1151",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/115813763a0ae3b03152db9a8e4a1151-mrzijcn7-1/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/115813763a0ae3b03152db9a8e4a1151-mrzijcn7-1/thumb.jpg",
+      "category": "iOS 27",
+      "resolution": "4K",
+      "featured": false,
+      "sortOrder": 4,
+      "createdAt": "2026-07-24T22:29:48.958Z"
     },
     {
       "id": "7ce15980f1f2ca676eaa044a40f1a241-mrzijm2u-4",
