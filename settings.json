@@ -1,5 +1,5 @@
 {
-  "adsEnabled": true,
+  "adsEnabled": false,
   "adsMode": "test",
   "appOpenAdUnitId": "",
   "interstitialAdUnitId": "",
@@ -15,5 +15,5 @@
   "introVideoURL": "https://github.com/elbouhssiini-a11y/glasswall4k-assets/releases/download/intro-assets/full.mp4?v=1784934430996",
   "introMaxSeconds": 3,
   "introButtonTitle": "Get Started",
-  "updatedAt": "2026-07-24T23:34:54.198Z"
+  "updatedAt": "2026-07-25T08:03:22.073Z"
 }
