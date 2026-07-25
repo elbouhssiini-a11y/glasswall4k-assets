@@ -11,9 +11,9 @@
   "introVersion": 1,
   "introTitle": "Welcome to Wallora Glass",
   "introSubtitle": "Browse Live & iOS wallpapers. Save favorites and download in one tap.",
-  "introImageURL": "https://github.com/elbouhssiini-a11y/glasswall4k-assets/releases/download/intro-assets/thumb.jpg?v=1784934430996",
-  "introVideoURL": "https://github.com/elbouhssiini-a11y/glasswall4k-assets/releases/download/intro-assets/full.mp4?v=1784934430996",
+  "introImageURL": "https://github.com/elbouhssiini-a11y/glasswall4k-assets/releases/download/intro-assets/thumb.jpg",
+  "introVideoURL": "https://github.com/elbouhssiini-a11y/glasswall4k-assets/releases/download/intro-assets/full.mp4",
   "introMaxSeconds": 3,
   "introButtonTitle": "Get Started",
-  "updatedAt": "2026-07-25T08:03:22.073Z"
+  "updatedAt": "2026-07-25T08:07:12.350Z"
 }
