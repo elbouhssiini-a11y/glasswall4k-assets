@@ -642,17 +642,6 @@
       "createdAt": "2026-07-24T09:27:58.295Z"
     },
     {
-      "id": "8de2afcf0b24277db8e8acf05a19217c-mryqlzed-27",
-      "title": "8de2afcf0b24277db8e8acf05a19217c",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/8de2afcf0b24277db8e8acf05a19217c-mryqlzed-27/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/8de2afcf0b24277db8e8acf05a19217c-mryqlzed-27/thumb.jpg",
-      "category": "iOS 27",
-      "resolution": "4K",
-      "featured": false,
-      "sortOrder": 58,
-      "createdAt": "2026-07-24T09:28:01.984Z"
-    },
-    {
       "id": "8ed899b6d90d973e9ba7a4811fa07d68-mryqm28c-28",
       "title": "8ed899b6d90d973e9ba7a4811fa07d68",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/8ed899b6d90d973e9ba7a4811fa07d68-mryqm28c-28/full.jpg",
@@ -660,7 +649,7 @@
       "category": "iOS 27",
       "resolution": "4K",
       "featured": false,
-      "sortOrder": 59,
+      "sortOrder": 58,
       "createdAt": "2026-07-24T09:28:06.268Z"
     },
     {
@@ -671,8 +660,19 @@
       "category": "iOS 27",
       "resolution": "4K",
       "featured": false,
-      "sortOrder": 60,
+      "sortOrder": 59,
       "createdAt": "2026-07-24T09:28:11.000Z"
+    },
+    {
+      "id": "8de2afcf0b24277db8e8acf05a19217c-mryqlzed-27",
+      "title": "8de2afcf0b24277db8e8acf05a19217c",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/8de2afcf0b24277db8e8acf05a19217c-mryqlzed-27/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/8de2afcf0b24277db8e8acf05a19217c-mryqlzed-27/thumb.jpg",
+      "category": "iOS 27",
+      "resolution": "4K",
+      "featured": false,
+      "sortOrder": 60,
+      "createdAt": "2026-07-24T09:28:01.984Z"
     },
     {
       "id": "09cb50df8aec230c14731bdc0110ba94-mryqm97j-30",
