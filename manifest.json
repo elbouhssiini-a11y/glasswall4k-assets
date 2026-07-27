@@ -286,7 +286,7 @@
       "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/from-klickpin-com-918804761499889881-pin-id-918804761499889881-mrzfkqyr-11/full.mp4",
       "category": "Live Wallpapers",
       "resolution": "Live",
-      "featured": false,
+      "featured": true,
       "sortOrder": 12,
       "createdAt": "2026-07-24T21:06:57.954Z"
     },
