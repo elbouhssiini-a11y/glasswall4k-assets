@@ -224,17 +224,6 @@
       "createdAt": "2026-07-25T10:56:51.918Z"
     },
     {
-      "id": "725ca101452c538e77b441c162c26894-ms0985iq-16",
-      "title": "725ca101452c538e77b441c162c26894",
-      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/725ca101452c538e77b441c162c26894-ms0985iq-16/full.jpg",
-      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/725ca101452c538e77b441c162c26894-ms0985iq-16/thumb.jpg",
-      "category": "iOS 27",
-      "resolution": "4K",
-      "featured": false,
-      "sortOrder": 20,
-      "createdAt": "2026-07-25T10:56:56.115Z"
-    },
-    {
       "id": "4dd642485fc6c17a55c864516ac6dbe5-ms0988qw-17",
       "title": "4dd642485fc6c17a55c864516ac6dbe5",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/4dd642485fc6c17a55c864516ac6dbe5-ms0988qw-17/full.jpg",
@@ -242,8 +231,19 @@
       "category": "iOS 27",
       "resolution": "4K",
       "featured": false,
-      "sortOrder": 21,
+      "sortOrder": 20,
       "createdAt": "2026-07-25T10:57:00.154Z"
+    },
+    {
+      "id": "725ca101452c538e77b441c162c26894-ms0985iq-16",
+      "title": "725ca101452c538e77b441c162c26894",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/725ca101452c538e77b441c162c26894-ms0985iq-16/full.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/725ca101452c538e77b441c162c26894-ms0985iq-16/thumb.jpg",
+      "category": "iOS 27",
+      "resolution": "4K",
+      "featured": false,
+      "sortOrder": 21,
+      "createdAt": "2026-07-25T10:56:56.115Z"
     },
     {
       "id": "68c8e982001bee96a8b0512e0500ac79-ms098bvr-18",
