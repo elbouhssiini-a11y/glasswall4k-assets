@@ -15,6 +15,18 @@
   ],
   "wallpapers": [
     {
+      "id": "file-1-muhtiz3r-0",
+      "title": "File 1",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-1-muhtiz3r-0/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-1-muhtiz3r-0/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-1-muhtiz3r-0/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 1,
+      "createdAt": "2026-09-26T03:16:47.041Z"
+    },
+    {
       "id": "cff38c576a18d3e782abeb1ba9f4d658-mt5qf0q6-14",
       "title": "cff38c576a18d3e782abeb1ba9f4d658",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/cff38c576a18d3e782abeb1ba9f4d658-mt5qf0q6-14/full.jpg",
@@ -24,6 +36,18 @@
       "featured": false,
       "sortOrder": 1,
       "createdAt": "2026-08-23T11:36:43.075Z"
+    },
+    {
+      "id": "file-2-muhtj614-1",
+      "title": "File 2",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-2-muhtj614-1/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-2-muhtj614-1/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-2-muhtj614-1/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 2,
+      "createdAt": "2026-09-26T03:16:54.487Z"
     },
     {
       "id": "74ebb5cae06a3d0699398ed780f12fe5-mt5qf4l1-15",
@@ -37,6 +61,18 @@
       "createdAt": "2026-08-23T11:36:48.715Z"
     },
     {
+      "id": "file-3-muhtjb9y-2",
+      "title": "File 3",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-3-muhtjb9y-2/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-3-muhtjb9y-2/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-3-muhtjb9y-2/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 3,
+      "createdAt": "2026-09-26T03:17:00.927Z"
+    },
+    {
       "id": "ahmed-ms8tj3kb-0",
       "title": "ahmed",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/ahmed-ms8tj3kb-0/full.jpg",
@@ -48,8 +84,20 @@
       "createdAt": "2026-07-31T10:47:28.929Z"
     },
     {
+      "id": "file-4-muhtjg8h-3",
+      "title": "File 4",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-4-muhtjg8h-3/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-4-muhtjg8h-3/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-4-muhtjg8h-3/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 4,
+      "createdAt": "2026-09-26T03:17:07.247Z"
+    },
+    {
       "id": "ef56426ae9a4a54482ef26270d99e5e2-ms8tj78m-1",
-      "title": "ef56426ae9a4a54482ef26270d99e5e2",
+      "title": "Brown Leather Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/ef56426ae9a4a54482ef26270d99e5e2-ms8tj78m-1/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/ef56426ae9a4a54482ef26270d99e5e2-ms8tj78m-1/thumb.jpg",
       "category": "iOS 27",
@@ -57,6 +105,18 @@
       "featured": false,
       "sortOrder": 4,
       "createdAt": "2026-07-31T10:47:33.461Z"
+    },
+    {
+      "id": "file-5-muhtjl2m-4",
+      "title": "File 5",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-5-muhtjl2m-4/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-5-muhtjl2m-4/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-5-muhtjl2m-4/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 5,
+      "createdAt": "2026-09-26T03:17:16.293Z"
     },
     {
       "id": "161c49de42939d852f82774c8998bd60-ms8tju88-8",
@@ -70,6 +130,18 @@
       "createdAt": "2026-07-31T10:48:03.057Z"
     },
     {
+      "id": "file-6-muhtjscm-5",
+      "title": "File 6",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-6-muhtjscm-5/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-6-muhtjscm-5/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-6-muhtjscm-5/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 6,
+      "createdAt": "2026-09-26T03:17:22.516Z"
+    },
+    {
       "id": "a7170c4a1ac2177478d4c2120ffd0e1c-ms8tjdxk-3",
       "title": "a7170c4a1ac2177478d4c2120ffd0e1c",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/a7170c4a1ac2177478d4c2120ffd0e1c-ms8tjdxk-3/full.jpg",
@@ -79,6 +151,18 @@
       "featured": false,
       "sortOrder": 6,
       "createdAt": "2026-07-31T10:47:42.231Z"
+    },
+    {
+      "id": "file-7-muhtjwzd-6",
+      "title": "File 7",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-7-muhtjwzd-6/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-7-muhtjwzd-6/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-7-muhtjwzd-6/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 7,
+      "createdAt": "2026-09-26T03:17:45.916Z"
     },
     {
       "id": "32d27272152df4c58766940acad4d3fd-ms8tk0xe-10",
@@ -92,6 +176,18 @@
       "createdAt": "2026-07-31T10:48:11.675Z"
     },
     {
+      "id": "file-8-muhtkfib-7",
+      "title": "File 8",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-8-muhtkfib-7/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-8-muhtkfib-7/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-8-muhtkfib-7/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 8,
+      "createdAt": "2026-09-26T03:17:53.797Z"
+    },
+    {
       "id": "8c437d35076ce3976aa1b1eae4a4cca5-ms8tjamj-2",
       "title": "8c437d35076ce3976aa1b1eae4a4cca5",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/8c437d35076ce3976aa1b1eae4a4cca5-ms8tjamj-2/full.jpg",
@@ -101,6 +197,18 @@
       "featured": true,
       "sortOrder": 8,
       "createdAt": "2026-07-31T10:47:37.707Z"
+    },
+    {
+      "id": "file-9-muhtkloh-8",
+      "title": "File 9",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-9-muhtkloh-8/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-9-muhtkloh-8/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-9-muhtkloh-8/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 9,
+      "createdAt": "2026-09-26T03:18:02.313Z"
     },
     {
       "id": "ac6dc6629891a06d5ab4b02f1120e056-ms8tjhdm-4",
@@ -114,6 +222,18 @@
       "createdAt": "2026-07-31T10:47:46.283Z"
     },
     {
+      "id": "file-10-muhtkruq-9",
+      "title": "File 10",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-10-muhtkruq-9/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-10-muhtkruq-9/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-10-muhtkruq-9/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 10,
+      "createdAt": "2026-09-26T03:18:09.924Z"
+    },
+    {
       "id": "b9918927d30038be00d1762f3a274369-ms8tjki8-5",
       "title": "b9918927d30038be00d1762f3a274369",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/b9918927d30038be00d1762f3a274369-ms8tjki8-5/full.jpg",
@@ -123,6 +243,18 @@
       "featured": false,
       "sortOrder": 10,
       "createdAt": "2026-07-31T10:47:50.723Z"
+    },
+    {
+      "id": "file-11-muhtky0x-10",
+      "title": "File 11",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-11-muhtky0x-10/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-11-muhtky0x-10/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-11-muhtky0x-10/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 11,
+      "createdAt": "2026-09-26T03:18:17.703Z"
     },
     {
       "id": "3ec5bbb98807f2c0866a24cacf4b600c-ms8tjnxo-6",
@@ -136,6 +268,18 @@
       "createdAt": "2026-07-31T10:47:54.809Z"
     },
     {
+      "id": "file-12-muhtl475-11",
+      "title": "File 12",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-12-muhtl475-11/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-12-muhtl475-11/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-12-muhtl475-11/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 12,
+      "createdAt": "2026-09-26T03:18:26.891Z"
+    },
+    {
       "id": "96e67d2da94a70ac2c63a04c402f2471-ms8tjr3f-7",
       "title": "96e67d2da94a70ac2c63a04c402f2471",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/96e67d2da94a70ac2c63a04c402f2471-ms8tjr3f-7/full.jpg",
@@ -145,6 +289,18 @@
       "featured": false,
       "sortOrder": 12,
       "createdAt": "2026-07-31T10:47:58.862Z"
+    },
+    {
+      "id": "file-13-muhtlb55-12",
+      "title": "File 13",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-13-muhtlb55-12/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-13-muhtlb55-12/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-13-muhtlb55-12/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 13,
+      "createdAt": "2026-09-26T03:18:39.491Z"
     },
     {
       "id": "03fc70a3431038dc873298a53ae015c5-ms8tjxg5-9",
@@ -158,6 +314,18 @@
       "createdAt": "2026-07-31T10:48:07.572Z"
     },
     {
+      "id": "file-14-muhtlkeh-13",
+      "title": "File 14",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-14-muhtlkeh-13/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-14-muhtlkeh-13/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-14-muhtlkeh-13/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 14,
+      "createdAt": "2026-09-26T03:18:46.928Z"
+    },
+    {
       "id": "c4a032a3060b86cf76b416b76dfb835d-ms8tk43g-11",
       "title": "c4a032a3060b86cf76b416b76dfb835d",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/c4a032a3060b86cf76b416b76dfb835d-ms8tk43g-11/full.jpg",
@@ -167,6 +335,18 @@
       "featured": false,
       "sortOrder": 14,
       "createdAt": "2026-07-31T10:48:15.963Z"
+    },
+    {
+      "id": "file-15-muhtlqko-14",
+      "title": "File 15",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-15-muhtlqko-14/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-15-muhtlqko-14/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-15-muhtlqko-14/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 15,
+      "createdAt": "2026-09-26T03:18:55.002Z"
     },
     {
       "id": "0849651c670c7728e934d2ec531d12e0-ms8tk7ds-12",
@@ -180,6 +360,18 @@
       "createdAt": "2026-07-31T10:48:20.175Z"
     },
     {
+      "id": "file-16-muhtlwqw-15",
+      "title": "File 16",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-16-muhtlwqw-15/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-16-muhtlwqw-15/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-16-muhtlwqw-15/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 16,
+      "createdAt": "2026-09-26T03:19:02.054Z"
+    },
+    {
       "id": "1f42ceec4a2ed243ee68efd9b181bf6e-ms8tkano-13",
       "title": "1f42ceec4a2ed243ee68efd9b181bf6e",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/1f42ceec4a2ed243ee68efd9b181bf6e-ms8tkano-13/full.jpg",
@@ -189,6 +381,18 @@
       "featured": false,
       "sortOrder": 16,
       "createdAt": "2026-07-31T10:48:24.198Z"
+    },
+    {
+      "id": "file-17-muhtm25c-16",
+      "title": "File 17",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-17-muhtm25c-16/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-17-muhtm25c-16/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-17-muhtm25c-16/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 17,
+      "createdAt": "2026-09-26T03:19:10.510Z"
     },
     {
       "id": "497b59a26a7a30bf366c764ae522c8f6-ms8tkdr6-14",
@@ -202,6 +406,18 @@
       "createdAt": "2026-07-31T10:48:28.806Z"
     },
     {
+      "id": "file-18-muhtm8bk-17",
+      "title": "File 18",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-18-muhtm8bk-17/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-18-muhtm8bk-17/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-18-muhtm8bk-17/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 18,
+      "createdAt": "2026-09-26T03:19:18.168Z"
+    },
+    {
       "id": "733e6a100fe7d662d72aa573aad1568c-ms8tkhdx-15",
       "title": "733e6a100fe7d662d72aa573aad1568c",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/733e6a100fe7d662d72aa573aad1568c-ms8tkhdx-15/full.jpg",
@@ -213,8 +429,20 @@
       "createdAt": "2026-07-31T10:48:33.007Z"
     },
     {
+      "id": "file-19-muhtmehs-18",
+      "title": "File 19",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-19-muhtmehs-18/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-19-muhtmehs-18/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-19-muhtmehs-18/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 19,
+      "createdAt": "2026-09-26T03:19:25.745Z"
+    },
+    {
       "id": "e382478878c17361d7d3963e776aa3ec-ms8tkkkc-16",
-      "title": "e382478878c17361d7d3963e776aa3ec",
+      "title": "Orange Neon Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e382478878c17361d7d3963e776aa3ec-ms8tkkkc-16/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e382478878c17361d7d3963e776aa3ec-ms8tkkkc-16/thumb.jpg",
       "category": "iOS 27",
@@ -222,6 +450,18 @@
       "featured": false,
       "sortOrder": 19,
       "createdAt": "2026-07-31T10:48:37.613Z"
+    },
+    {
+      "id": "file-20-muhtmko0-19",
+      "title": "File 20",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-20-muhtmko0-19/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-20-muhtmko0-19/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-20-muhtmko0-19/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 20,
+      "createdAt": "2026-09-26T03:19:33.756Z"
     },
     {
       "id": "09d3f62c5500dfd912ccf4235132be7b-ms360anr-0",
@@ -233,6 +473,18 @@
       "featured": false,
       "sortOrder": 20,
       "createdAt": "2026-07-27T11:50:09.419Z"
+    },
+    {
+      "id": "file-21-muhtmqu8-20",
+      "title": "File 21",
+      "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-21-muhtmqu8-20/thumb.jpg",
+      "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-21-muhtmqu8-20/thumb.jpg",
+      "videoURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/file-21-muhtmqu8-20/full.mp4",
+      "category": "Live Wallpapers",
+      "resolution": "Live",
+      "featured": false,
+      "sortOrder": 21,
+      "createdAt": "2026-09-26T03:19:41.410Z"
     },
     {
       "id": "854bda72b6d98273637227e737aa4b3f-ms360evt-1",
@@ -291,7 +543,7 @@
     },
     {
       "id": "734d65c1bcb2fa5cfd2192d621b682a8-ms33x5ul-0",
-      "title": "734d65c1bcb2fa5cfd2192d621b682a8",
+      "title": "Teal Drip Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/734d65c1bcb2fa5cfd2192d621b682a8-ms33x5ul-0/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/734d65c1bcb2fa5cfd2192d621b682a8-ms33x5ul-0/thumb.jpg",
       "category": "iOS 27",
@@ -335,7 +587,7 @@
     },
     {
       "id": "9ccd3ce9e327dee104e661fdb3c0acf0-ms096s6v-1",
-      "title": "9ccd3ce9e327dee104e661fdb3c0acf0",
+      "title": "Luminous Blue Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/9ccd3ce9e327dee104e661fdb3c0acf0-ms096s6v-1/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/9ccd3ce9e327dee104e661fdb3c0acf0-ms096s6v-1/thumb.jpg",
       "category": "iOS 27",
@@ -1303,7 +1555,7 @@
     },
     {
       "id": "0376f63ebe1a2cc6f70aceeffa455462-mryqntlc-48",
-      "title": "0376f63ebe1a2cc6f70aceeffa455462",
+      "title": "Gilded Spiral Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/0376f63ebe1a2cc6f70aceeffa455462-mryqntlc-48/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/0376f63ebe1a2cc6f70aceeffa455462-mryqntlc-48/thumb.jpg",
       "category": "iOS 27",
@@ -1402,7 +1654,7 @@
     },
     {
       "id": "7007f15f389aa23a84038ceb0461e584-mryqou57-59",
-      "title": "7007f15f389aa23a84038ceb0461e584",
+      "title": "Orange Dew Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/7007f15f389aa23a84038ceb0461e584-mryqou57-59/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/7007f15f389aa23a84038ceb0461e584-mryqou57-59/thumb.jpg",
       "category": "iOS 27",
@@ -1468,7 +1720,7 @@
     },
     {
       "id": "610583d766f46849afdc5b02ae48134b-mryqpi4h-66",
-      "title": "610583d766f46849afdc5b02ae48134b",
+      "title": "Swirled Red Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/610583d766f46849afdc5b02ae48134b-mryqpi4h-66/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/610583d766f46849afdc5b02ae48134b-mryqpi4h-66/thumb.jpg",
       "category": "iOS 27",
@@ -1490,7 +1742,7 @@
     },
     {
       "id": "5454780bbd9b223d41566684880626ce-mryqps2w-69",
-      "title": "5454780bbd9b223d41566684880626ce",
+      "title": "Lime Gold Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/5454780bbd9b223d41566684880626ce-mryqps2w-69/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/5454780bbd9b223d41566684880626ce-mryqps2w-69/thumb.jpg",
       "category": "iOS 27",
@@ -1523,7 +1775,7 @@
     },
     {
       "id": "7827157a56ad4cab5c8b4964e19de2b5-mryqq14a-72",
-      "title": "7827157a56ad4cab5c8b4964e19de2b5",
+      "title": "Chrome Neon Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/7827157a56ad4cab5c8b4964e19de2b5-mryqq14a-72/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/7827157a56ad4cab5c8b4964e19de2b5-mryqq14a-72/thumb.jpg",
       "category": "iOS 27",
@@ -1666,7 +1918,7 @@
     },
     {
       "id": "bd48f10050505bae9ad8f7d64803861c-mryqrf7k-88",
-      "title": "bd48f10050505bae9ad8f7d64803861c",
+      "title": "Neon Edge Mark",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/bd48f10050505bae9ad8f7d64803861c-mryqrf7k-88/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/bd48f10050505bae9ad8f7d64803861c-mryqrf7k-88/thumb.jpg",
       "category": "iOS 27",
@@ -1677,7 +1929,7 @@
     },
     {
       "id": "c88a7bb5123e21bb67b3f8aab31ccd54-mryqrhzd-89",
-      "title": "c88a7bb5123e21bb67b3f8aab31ccd54",
+      "title": "Teal Gradient Ring",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/c88a7bb5123e21bb67b3f8aab31ccd54-mryqrhzd-89/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/c88a7bb5123e21bb67b3f8aab31ccd54-mryqrhzd-89/thumb.jpg",
       "category": "iOS 27",
@@ -1688,7 +1940,7 @@
     },
     {
       "id": "c753fba42dd7d8fc202fd6fe2f3b4b47-mryqrlij-90",
-      "title": "c753fba42dd7d8fc202fd6fe2f3b4b47",
+      "title": "Mint Blob Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/c753fba42dd7d8fc202fd6fe2f3b4b47-mryqrlij-90/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/c753fba42dd7d8fc202fd6fe2f3b4b47-mryqrlij-90/thumb.jpg",
       "category": "iOS 27",
@@ -1699,7 +1951,7 @@
     },
     {
       "id": "cd0a6bf77295352c6eead8564bde2633-mryqrr9b-92",
-      "title": "cd0a6bf77295352c6eead8564bde2633",
+      "title": "Monogram Leather Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/cd0a6bf77295352c6eead8564bde2633-mryqrr9b-92/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/cd0a6bf77295352c6eead8564bde2633-mryqrr9b-92/thumb.jpg",
       "category": "iOS 27",
@@ -1710,7 +1962,7 @@
     },
     {
       "id": "cfcf1daf37d93031dcc08175bd7d5e8b-mryqru81-93",
-      "title": "cfcf1daf37d93031dcc08175bd7d5e8b",
+      "title": "Copper Circuit Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/cfcf1daf37d93031dcc08175bd7d5e8b-mryqru81-93/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/cfcf1daf37d93031dcc08175bd7d5e8b-mryqru81-93/thumb.jpg",
       "category": "iOS 27",
@@ -1721,7 +1973,7 @@
     },
     {
       "id": "d3d7c7d3beb3b33aa7ded2d471a21de2-mryqrxeo-94",
-      "title": "d3d7c7d3beb3b33aa7ded2d471a21de2",
+      "title": "Wavy Emerald Mark",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d3d7c7d3beb3b33aa7ded2d471a21de2-mryqrxeo-94/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d3d7c7d3beb3b33aa7ded2d471a21de2-mryqrxeo-94/thumb.jpg",
       "category": "iOS 27",
@@ -1743,7 +1995,7 @@
     },
     {
       "id": "d7af7a8d8517f9445432e8bf2b2ee712-mryqs49n-96",
-      "title": "d7af7a8d8517f9445432e8bf2b2ee712",
+      "title": "Circuit Glow Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d7af7a8d8517f9445432e8bf2b2ee712-mryqs49n-96/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d7af7a8d8517f9445432e8bf2b2ee712-mryqs49n-96/thumb.jpg",
       "category": "iOS 27",
@@ -1754,7 +2006,7 @@
     },
     {
       "id": "d27b9e30cd761d9da575fdbc98fb9062-mryqs78m-97",
-      "title": "d27b9e30cd761d9da575fdbc98fb9062",
+      "title": "Chrome Cyan Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d27b9e30cd761d9da575fdbc98fb9062-mryqs78m-97/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d27b9e30cd761d9da575fdbc98fb9062-mryqs78m-97/thumb.jpg",
       "category": "iOS 27",
@@ -1765,7 +2017,7 @@
     },
     {
       "id": "d457a343f60d7ee0692d5b0f77dab6f3-mryqsdie-99",
-      "title": "d457a343f60d7ee0692d5b0f77dab6f3",
+      "title": "Glass Leaf Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d457a343f60d7ee0692d5b0f77dab6f3-mryqsdie-99/full.webp",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d457a343f60d7ee0692d5b0f77dab6f3-mryqsdie-99/thumb.jpg",
       "category": "iOS 27",
@@ -1776,7 +2028,7 @@
     },
     {
       "id": "d729a10b165d14a674ee26984b38e7cc-mryqsgx2-100",
-      "title": "d729a10b165d14a674ee26984b38e7cc",
+      "title": "Golden Droplet Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d729a10b165d14a674ee26984b38e7cc-mryqsgx2-100/full.webp",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d729a10b165d14a674ee26984b38e7cc-mryqsgx2-100/thumb.jpg",
       "category": "iOS 27",
@@ -1787,7 +2039,7 @@
     },
     {
       "id": "d2482bf31d83bb808d61a3b0a16f09fc-mryqsk3w-101",
-      "title": "d2482bf31d83bb808d61a3b0a16f09fc",
+      "title": "Teal Bokeh Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d2482bf31d83bb808d61a3b0a16f09fc-mryqsk3w-101/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/d2482bf31d83bb808d61a3b0a16f09fc-mryqsk3w-101/thumb.jpg",
       "category": "iOS 27",
@@ -1809,7 +2061,7 @@
     },
     {
       "id": "da762538bb90a7453f3c6cdf73202446-mryqstpg-104",
-      "title": "da762538bb90a7453f3c6cdf73202446",
+      "title": "Amber Glass Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/da762538bb90a7453f3c6cdf73202446-mryqstpg-104/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/da762538bb90a7453f3c6cdf73202446-mryqstpg-104/thumb.jpg",
       "category": "iOS 27",
@@ -1820,7 +2072,7 @@
     },
     {
       "id": "dbbfd384112d976b81b9acac73810d95-mryqswpf-105",
-      "title": "dbbfd384112d976b81b9acac73810d95",
+      "title": "Cyan Ring Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dbbfd384112d976b81b9acac73810d95-mryqswpf-105/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dbbfd384112d976b81b9acac73810d95-mryqswpf-105/thumb.jpg",
       "category": "iOS 27",
@@ -1831,7 +2083,7 @@
     },
     {
       "id": "dc6f6ecdee162fef76a2d8ecaf47bde0-mryqt034-106",
-      "title": "dc6f6ecdee162fef76a2d8ecaf47bde0",
+      "title": "Embossed Blue Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dc6f6ecdee162fef76a2d8ecaf47bde0-mryqt034-106/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dc6f6ecdee162fef76a2d8ecaf47bde0-mryqt034-106/thumb.jpg",
       "category": "iOS 27",
@@ -1842,7 +2094,7 @@
     },
     {
       "id": "dd3cd1d8b05c9956481827d3cdb150b9-mryqt3iq-107",
-      "title": "dd3cd1d8b05c9956481827d3cdb150b9",
+      "title": "Red Droplet Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dd3cd1d8b05c9956481827d3cdb150b9-mryqt3iq-107/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dd3cd1d8b05c9956481827d3cdb150b9-mryqt3iq-107/thumb.jpg",
       "category": "iOS 27",
@@ -1853,7 +2105,7 @@
     },
     {
       "id": "dee7a2697caf4c809ffc7b4fc57250c3-mryqt6nk-108",
-      "title": "dee7a2697caf4c809ffc7b4fc57250c3",
+      "title": "Orange Floral Mark",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dee7a2697caf4c809ffc7b4fc57250c3-mryqt6nk-108/full.webp",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dee7a2697caf4c809ffc7b4fc57250c3-mryqt6nk-108/thumb.jpg",
       "category": "iOS 27",
@@ -1864,7 +2116,7 @@
     },
     {
       "id": "dfba0ee70ec30b6a20be0516ad4576fd-mryqt9rq-109",
-      "title": "dfba0ee70ec30b6a20be0516ad4576fd",
+      "title": "Blue Wet Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dfba0ee70ec30b6a20be0516ad4576fd-mryqt9rq-109/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/dfba0ee70ec30b6a20be0516ad4576fd-mryqt9rq-109/thumb.jpg",
       "category": "iOS 27",
@@ -1875,7 +2127,7 @@
     },
     {
       "id": "download-1-mryqtdet-110",
-      "title": "download (1)",
+      "title": "Chrome Flame Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-1-mryqtdet-110/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-1-mryqtdet-110/thumb.jpg",
       "category": "iOS 27",
@@ -1886,7 +2138,7 @@
     },
     {
       "id": "download-2-mryqti5z-111",
-      "title": "download (2)",
+      "title": "Neon Burst Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-2-mryqti5z-111/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-2-mryqti5z-111/thumb.jpg",
       "category": "iOS 27",
@@ -1897,7 +2149,7 @@
     },
     {
       "id": "download-3-mryqtnne-112",
-      "title": "download (3)",
+      "title": "Tooled Leather Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-3-mryqtnne-112/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-3-mryqtnne-112/thumb.jpg",
       "category": "iOS 27",
@@ -1908,7 +2160,7 @@
     },
     {
       "id": "download-4-mryqtvfc-113",
-      "title": "download (4)",
+      "title": "Neon City Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-4-mryqtvfc-113/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-4-mryqtvfc-113/thumb.jpg",
       "category": "iOS 27",
@@ -1919,7 +2171,7 @@
     },
     {
       "id": "download-5-mryqtzw8-114",
-      "title": "download (5)",
+      "title": "Dewy Clock Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-5-mryqtzw8-114/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-5-mryqtzw8-114/thumb.jpg",
       "category": "iOS 27",
@@ -1930,7 +2182,7 @@
     },
     {
       "id": "download-6-mryqu5tn-115",
-      "title": "download (6)",
+      "title": "Gold Marble Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-6-mryqu5tn-115/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-6-mryqu5tn-115/thumb.jpg",
       "category": "iOS 27",
@@ -1941,7 +2193,7 @@
     },
     {
       "id": "download-7-mryqubi3-116",
-      "title": "download (7)",
+      "title": "Neon Mesh Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-7-mryqubi3-116/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-7-mryqubi3-116/thumb.jpg",
       "category": "iOS 27",
@@ -1952,7 +2204,7 @@
     },
     {
       "id": "download-8-mryquh76-117",
-      "title": "download (8)",
+      "title": "Copper Trim Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-8-mryquh76-117/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-8-mryquh76-117/thumb.jpg",
       "category": "iOS 27",
@@ -1963,7 +2215,7 @@
     },
     {
       "id": "download-9-mryqumfp-118",
-      "title": "download (9)",
+      "title": "Cyan Circuit Mark",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-9-mryqumfp-118/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-9-mryqumfp-118/thumb.jpg",
       "category": "iOS 27",
@@ -1974,7 +2226,7 @@
     },
     {
       "id": "download-10-mryqur2t-119",
-      "title": "download (10)",
+      "title": "Rose Gold Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-10-mryqur2t-119/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-10-mryqur2t-119/thumb.jpg",
       "category": "iOS 27",
@@ -1985,7 +2237,7 @@
     },
     {
       "id": "download-11-mryquvqy-120",
-      "title": "download (11)",
+      "title": "Glass Fruit Notes",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-11-mryquvqy-120/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-11-mryquvqy-120/thumb.jpg",
       "category": "iOS 27",
@@ -1996,7 +2248,7 @@
     },
     {
       "id": "download-12-mryqv0e2-121",
-      "title": "download (12)",
+      "title": "Colorful Geometric Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-12-mryqv0e2-121/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-12-mryqv0e2-121/thumb.jpg",
       "category": "iOS 27",
@@ -2007,7 +2259,7 @@
     },
     {
       "id": "download-13-mryqv5x1-122",
-      "title": "download (13)",
+      "title": "Teal Ember Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-13-mryqv5x1-122/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-13-mryqv5x1-122/thumb.jpg",
       "category": "iOS 27",
@@ -2018,7 +2270,7 @@
     },
     {
       "id": "download-14-mryqvatz-123",
-      "title": "download (14)",
+      "title": "Liquid Chrome Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-14-mryqvatz-123/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-14-mryqvatz-123/thumb.jpg",
       "category": "iOS 27",
@@ -2029,7 +2281,7 @@
     },
     {
       "id": "download-15-mryqvfm3-124",
-      "title": "download (15)",
+      "title": "Amber Splash Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-15-mryqvfm3-124/full.png",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/download-15-mryqvfm3-124/thumb.jpg",
       "category": "iOS 27",
@@ -2040,7 +2292,7 @@
     },
     {
       "id": "e0e805f73f1ffa23a04f2a5c0152abab-mryqvl90-125",
-      "title": "e0e805f73f1ffa23a04f2a5c0152abab",
+      "title": "Yellow Branch Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e0e805f73f1ffa23a04f2a5c0152abab-mryqvl90-125/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e0e805f73f1ffa23a04f2a5c0152abab-mryqvl90-125/thumb.jpg",
       "category": "iOS 27",
@@ -2051,7 +2303,7 @@
     },
     {
       "id": "e08bdcc40163fd3b45382a7632c7556f-mryqvom7-126",
-      "title": "e08bdcc40163fd3b45382a7632c7556f",
+      "title": "Rainbow Splash Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e08bdcc40163fd3b45382a7632c7556f-mryqvom7-126/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e08bdcc40163fd3b45382a7632c7556f-mryqvom7-126/thumb.jpg",
       "category": "iOS 27",
@@ -2062,7 +2314,7 @@
     },
     {
       "id": "e12830fc49effada1f66d172a617983c-mryqvrsu-127",
-      "title": "e12830fc49effada1f66d172a617983c",
+      "title": "Sunset Portal Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e12830fc49effada1f66d172a617983c-mryqvrsu-127/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e12830fc49effada1f66d172a617983c-mryqvrsu-127/thumb.jpg",
       "category": "iOS 27",
@@ -2073,7 +2325,7 @@
     },
     {
       "id": "e35481f4f377bb8af72c7f8d208420cb-mryqvuwu-128",
-      "title": "e35481f4f377bb8af72c7f8d208420cb",
+      "title": "Scarlet Grain Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e35481f4f377bb8af72c7f8d208420cb-mryqvuwu-128/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/e35481f4f377bb8af72c7f8d208420cb-mryqvuwu-128/thumb.jpg",
       "category": "iOS 27",
@@ -2106,7 +2358,7 @@
     },
     {
       "id": "f9cb0ecdeea43fccf106f4c91ad05267-mryqw73v-132",
-      "title": "f9cb0ecdeea43fccf106f4c91ad05267",
+      "title": "Feather Burst Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/f9cb0ecdeea43fccf106f4c91ad05267-mryqw73v-132/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/f9cb0ecdeea43fccf106f4c91ad05267-mryqw73v-132/thumb.jpg",
       "category": "iOS 27",
@@ -2128,7 +2380,7 @@
     },
     {
       "id": "f94278e84050c75390b16835ca527e7d-mryqwgi2-135",
-      "title": "f94278e84050c75390b16835ca527e7d",
+      "title": "Droplet Burst Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/f94278e84050c75390b16835ca527e7d-mryqwgi2-135/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/f94278e84050c75390b16835ca527e7d-mryqwgi2-135/thumb.jpg",
       "category": "iOS 27",
@@ -2139,7 +2391,7 @@
     },
     {
       "id": "fb7d4fb5948d76e5c5e0589ce1ad7448-mryqwmk8-137",
-      "title": "fb7d4fb5948d76e5c5e0589ce1ad7448",
+      "title": "Crimson Droplet Mark",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/fb7d4fb5948d76e5c5e0589ce1ad7448-mryqwmk8-137/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/fb7d4fb5948d76e5c5e0589ce1ad7448-mryqwmk8-137/thumb.jpg",
       "category": "iOS 27",
@@ -2150,7 +2402,7 @@
     },
     {
       "id": "fc0f2e2b68cb307cd0c79330138a5162-mryqwtck-139",
-      "title": "fc0f2e2b68cb307cd0c79330138a5162",
+      "title": "Neon Network Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/fc0f2e2b68cb307cd0c79330138a5162-mryqwtck-139/full.jpg",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/fc0f2e2b68cb307cd0c79330138a5162-mryqwtck-139/thumb.jpg",
       "category": "iOS 27",
@@ -2161,7 +2413,7 @@
     },
     {
       "id": "ff1bf995e05e4aa230257e18a39e0533-mryqwzqt-141",
-      "title": "ff1bf995e05e4aa230257e18a39e0533",
+      "title": "Blue Halo Emblem",
       "imageURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/ff1bf995e05e4aa230257e18a39e0533-mryqwzqt-141/full.webp",
       "thumbnailURL": "https://raw.githubusercontent.com/elbouhssiini-a11y/glasswall4k-assets/main/wallpapers/ff1bf995e05e4aa230257e18a39e0533-mryqwzqt-141/thumb.jpg",
       "category": "iOS 27",
