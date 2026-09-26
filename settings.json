@@ -4,7 +4,7 @@
   "appOpenAdUnitId": "ca-app-pub-1661377453356262/8029685714",
   "interstitialAdUnitId": "ca-app-pub-1661377453356262/1707994953",
   "interstitialEveryNOpens": 3,
-  "interstitialEveryNDownloads": 1,
+  "interstitialEveryNDownloads": 2,
   "appOpenMinBackgroundSeconds": 2,
   "introEnabled": true,
   "introShowEveryLaunch": true,
@@ -15,5 +15,5 @@
   "introVideoURL": "https://github.com/elbouhssiini-a11y/glasswall4k-assets/releases/download/intro-assets/intro-1784967231387.mp4",
   "introMaxSeconds": 3,
   "introButtonTitle": "Get Started",
-  "updatedAt": "2026-09-26T02:53:13.675Z"
+  "updatedAt": "2026-09-26T03:19:54.880Z"
 }
